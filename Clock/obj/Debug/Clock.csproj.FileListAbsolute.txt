@@ -1,0 +1,16 @@
+C:\ccc\Clock\Clock\bin\Debug\Clock.exe
+C:\ccc\Clock\Clock\bin\Debug\Clock.pdb
+C:\ccc\Clock\Clock\obj\Debug\ResolveAssemblyReference.cache
+C:\ccc\Clock\Clock\obj\Debug\Clock.FormClock.resources
+C:\ccc\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\ccc\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+C:\ccc\Clock\Clock\obj\Debug\Clock.exe
+C:\ccc\Clock\Clock\obj\Debug\Clock.pdb
+D:\ccc\teach\MobileProgramming\Clock\Clock\obj\Debug\Clock.exe
+D:\ccc\teach\MobileProgramming\Clock\Clock\obj\Debug\Clock.pdb
+D:\ccc\teach\MobileProgramming\Clock\Clock\bin\Debug\Clock.exe
+D:\ccc\teach\MobileProgramming\Clock\Clock\bin\Debug\Clock.pdb
+D:\ccc\teach\MobileProgramming\Clock\Clock\obj\Debug\ResolveAssemblyReference.cache
+D:\ccc\teach\MobileProgramming\Clock\Clock\obj\Debug\Clock.FormClock.resources
+D:\ccc\teach\MobileProgramming\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+D:\ccc\teach\MobileProgramming\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
